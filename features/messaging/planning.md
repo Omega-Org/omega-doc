@@ -1,9 +1,9 @@
-#Planning document for messaging feautre
+# This is a planning document for messaging feautre
 
-#Research Links and Informations
+# Research Links and Informations
 
-#Potential Issues
+# Potential Issues
 
-#Implementation
+# Implementation
 
-#Notes
+# Notes
