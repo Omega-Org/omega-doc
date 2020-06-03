@@ -34,7 +34,7 @@ Get community support to build in new modules and features
 Eventually build features useful during emergencies and peaceful protest such as alerts,  messaging, location guidance to counter efforts to cut off and disperse groups (Link to possible features doc)
 
 ## Principles
-The Omega app is intended to give citizens a technology platform up against anti protest measures, or provide help to communities who are cut off from the internet during emergencies. The entire application will be decentralized and will keep no record or data on its use. This it's arguably the most important feature, providing a safe way to organize that can’t be used for evil in the wrong hands. Omega must be built completely with open source technology so it can be properly vetted by anyone to insure it is safe and secure to use.
+The entire application will be decentralized, secure and will keep no record or data on its users. This it's arguably the most important feature, providing a safe way to organize that is tamper proof and can’t be used for evil in the wrong hands. Omega must be built completely with open source technology so it can be properly vetted by anyone to insure it is safe and secure to use.
 
 
 ### How it works
