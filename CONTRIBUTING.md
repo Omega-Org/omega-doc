@@ -2,6 +2,7 @@
 # Contributing to Omega
 
 **Note: This document is a rough draft**
+
 First off, thank you for considering contributing to Omega. Together we can all help make omega a great tool that can make a difference.
 
 Thank you for taking the time to read this document. Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
