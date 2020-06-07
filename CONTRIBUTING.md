@@ -9,9 +9,9 @@ Thank you for taking the time to read this document. Following these guidelines 
 
 ### Things you can do to help
 We really want Omega to be influenced by the people who will use it, as well as communities across the world. Here are some potential ways you can help Omega, you could even help add to this doc!
-- review a Pull Request for [docs]([https://github.com/Omega-Org/omega-doc/pulls](https://github.com/Omega-Org/omega-doc/pulls)) or the [Omega App]([https://github.com/Omega-Org/omega-doc/pulls](https://github.com/Omega-Org/omega-doc/pulls))
-- fix an [Issue]([https://github.com/Omega-Org/omega-app/issues](https://github.com/Omega-Org/omega-app/issues))
-- update the [documentation]([https://github.com/Omega-Org/omega-doc](https://github.com/Omega-Org/omega-doc))
+- review a Pull Request for [docs](https://github.com/Omega-Org/omega-doc/pulls) or the [Omega App](https://github.com/Omega-Org/omega-doc/pulls)
+- fix an [Issue](https://github.com/Omega-Org/omega-app/issues)
+- update the [documentation](https://github.com/Omega-Org/omega-doc)
 - proofread our documents
 - translate a document
 - suggest a new feature or change
