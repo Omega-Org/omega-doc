@@ -7,7 +7,11 @@ First off, thank you for considering contributing to Omega. Together we can all 
 
 Thank you for taking the time to read this document. Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-### Things you can do to help
+## Table of contents
+
+- [How to Help](#how-to-help)
+
+### How to Help
 We really want Omega to be influenced by the people who will use it, as well as communities across the world. Here are some potential ways you can help Omega, you could even help add to this doc!
 - review a Pull Request for [docs](https://github.com/Omega-Org/omega-doc/pulls) or the [Omega App](https://github.com/Omega-Org/omega-doc/pulls)
 - fix an [Issue](https://github.com/Omega-Org/omega-app/issues)
