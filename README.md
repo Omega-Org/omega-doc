@@ -6,7 +6,6 @@ Omega is an open source platform to support the people. It allows users to creat
 
 ## Table of contents
 
-- [summary](#summary)
 - [Introduction](#introduction)
 - [Vision and goals](#vision-and-goals)
 - [Principles](#principles)
