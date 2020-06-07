@@ -1,24 +1,20 @@
-# Introduction
 
-### Write something nice here!
+# Contributing to Omega
 
->First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+**Note: This document is a rough draft**
+First off, thank you for considering contributing to Omega. Together we can all help make omega a great tool that can make a difference.
 
-[source: [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Read The Docs](http://read-the-docs.readthedocs.org/en/latest/contribute.html) [2] [Mustache.js](https://github.com/janl/mustache.js/#contributing)
+Thank you for taking the time to read this document. Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-### Tell them why they should read your guidelines.
-
->Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
-
-[source: [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)]
-
-### Explain what kinds of contributions you are looking for.
-
-Keep an open mind! Improving documentation, bug triaging, or writing tutorials are all examples of helpful contributions that mean less work for you.
-
-> Elasticsearch is an open source project and we love to receive contributions from our community — you! There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Elasticsearch itself.
-
-[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Devise](https://github.com/plataformatec/devise/wiki/Contributing) [2] [Geocoder](https://github.com/alexreisner/geocoder#known-issues) (“known issues”)
+### Things you can do to help
+We really want Omega to be influenced by the people who will use it, as well as communities across the world. Here are some potential ways you can help Omega, you could even help add to this doc!
+- review a Pull Request for [docs]([https://github.com/Omega-Org/omega-doc/pulls](https://github.com/Omega-Org/omega-doc/pulls)) or the [Omega App]([https://github.com/Omega-Org/omega-doc/pulls](https://github.com/Omega-Org/omega-doc/pulls))
+- fix an [Issue]([https://github.com/Omega-Org/omega-app/issues](https://github.com/Omega-Org/omega-app/issues))
+- update the [documentation]([https://github.com/Omega-Org/omega-doc](https://github.com/Omega-Org/omega-doc))
+- proofread our documents
+- translate a document
+- suggest a new feature or change
+- tell your friends!
 
 ### Explain contributions you are NOT looking for (if any).
 
