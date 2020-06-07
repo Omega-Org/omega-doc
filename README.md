@@ -1,6 +1,7 @@
 
 # Omega App
 **Note: this document is a currently a rough draft.** 
+
 Omega is an open source platform to support the people. It allows users to create ad-hoc networks using their smartphones to be used in peaceful protest or times of emergency when 4g/5g is no longer an option, or anonymity is a top priority. Power to the people ✊
 
 ## Table of contents
