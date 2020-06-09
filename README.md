@@ -2,7 +2,7 @@
 # Omega App
 **Note: this document is a currently a rough draft.** 
 
-Omega is an open source platform to support the people. It allows users to create ad-hoc networks using their smartphones to be used in peaceful protest or times of emergency when 4G/5G is no longer an option, or anonymity is a top priority. Power to the people ✊
+Omega is an open source platform to support the people. It allows users to create decentralized mesh networks using their smartphones to be used in peaceful protest or times of emergency when 4G/5G is no longer an option, or anonymity is a top priority. Power to the people ✊
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ This document provides a high-level description of Omega and it is a good idea t
 
 ## Vision and goals
 - Build a react native app
-- Build Android ad hoc network capabilities
+- Build Android mesh network capabilities
 - Build a simple messaging system 
 - Create easy-to-use development documentation to allow for easy collaboration
 - Get community support to build in new modules and features
@@ -37,4 +37,4 @@ The entire application will be decentralized, secure, and will keep no record or
 
 
 ### How it works
-The Application will utilize ad-hoc network technology to connect users together within the range of their own Wi-Fi hotspots or Bluetooth. Each connection makes the network stronger and larger. It provides a backbone for modular-based features to help during peaceful protest or times of emergency, where the project can be forked to meet more specific needs.
+The Application will utilize mesh network technology to connect users together within the range of their own Wi-Fi hotspots or Bluetooth. Each connection makes the network stronger and larger. It provides a backbone for modular-based features to help during peaceful protest or times of emergency, where the project can be forked to meet more specific needs.
