@@ -16,6 +16,7 @@ We will most likely want to utilize an opensource p2p protocol to build our mesh
 - [OSI Model: The 7 Layers of Network Architecture](https://www.bmc.com/blogs/osi-model-7-layers/)
 - [Secure Scuttlebutt](https://en.wikipedia.org/wiki/Secure_Scuttlebutt)
 - [Mesh Networking](https://en.wikipedia.org/wiki/Mesh_networking)
+- [p2p vs Mesh Network](https://superuser.com/questions/834348/what-is-the-difference-between-a-p2p-network-and-a-mesh-network)
 
 # Milestones
 
